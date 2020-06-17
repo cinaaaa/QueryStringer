@@ -9,7 +9,7 @@ with open(path.join(project_path, 'README.md')) as f:
 
 setup(
     name = 'querystringer',
-    packages = ['django'],
+    packages = ['querystringer'],
     license = 'MIT',
     version = '0.0.1',
     description = 'Extract query strings from get urls & requests',
