@@ -9,7 +9,6 @@ def QueryStrings(get_response):
         # the view later middleware are called.
 
         # Filter get requests
-        # Accept get requests
         if request.method == 'GET':
 
             # Dict that will return after
@@ -31,7 +30,7 @@ def QueryStrings(get_response):
                         value[0] = value[0].replace(rm, '')
                 except:
                     pass
-                    
+
                 # Now cleaned data push to final list
                 query_strings.append((key,value[0]))
 
