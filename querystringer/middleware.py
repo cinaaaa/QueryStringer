@@ -1,6 +1,6 @@
 from django.conf import settings
 
-def QueryStrings(get_response):
+def QueryStringer(get_response):
     # Wrapper that get the requests
     # and let views proccess after
     # the wrapper do the job
