@@ -3,6 +3,10 @@
 </p>
 <h1 align="center">Query Stringer</h1>
 <h4 align="center">Simple middleware for django to extract string queries from urls</h4>
+<p align="center">
+  <img src="https://img.shields.io/pypi/v/querystringer"/>
+  <img src="https://img.shields.io/github/issues/E-RROR/querystringer"/>
+</p>
 
 # Installation
 ```
