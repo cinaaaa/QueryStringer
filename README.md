@@ -1,5 +1,8 @@
-# QueryStringer
-Simple middleware for django to extract string queries from urls
+<p align="center">
+<img src="https://images.vexels.com/media/users/3/151277/isolated/preview/f85c1b1a7ce5e4a1e97418bfef30a759-web-address-bar-doodle-icon-by-vexels.png" />  
+</p>
+<h1 align="center">Query Stringer</h1>
+<h4 align="center">Simple middleware for django to extract string queries from urls</h4>
 
 # Installation
 ```
