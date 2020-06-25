@@ -8,6 +8,9 @@
   <img src="https://img.shields.io/github/issues/E-RROR/querystringer"/>
 </p>
 
+# Whats Query Stringer
+query stringer is simple middleware for django > * to get string querys from urls and do some filters on them too
+
 # Installation
 ```
 pip install querystringer
